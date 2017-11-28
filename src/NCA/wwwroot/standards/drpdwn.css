@@ -1,0 +1,94 @@
+div{
+  height: 500px;
+  width: 500px;
+  float: left;
+}
+
+.srchfrmdrp {
+  font-weight: 600;
+  letter-spacing: 4px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  text-transform: uppercase;
+  width: 14rem;
+}
+
+.chosen-value, .value-list {
+  background-color: #353535ff;
+  border: none;
+  font-family: "Franklin Gothic", "Helvetica", "Tahoma";
+  font-size: 1rem;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 4px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  text-transform: uppercase;
+  top: 0;
+  width: 100%;
+}
+
+.chosen-value {
+  background-color: #353535ff;
+  color: #f1eaee;
+  height: 16px;
+  padding: 10px;
+  width: 205px;
+  transition: .3s ease-in-out;
+  -webkit-transition: .3s ease-in-out;
+}
+
+.chosen-value:focus, .chosen-value.open {
+  background-color: #35353550;
+  color: #353535ff;
+  outline: 0;
+}
+
+.chosen-value:hover {
+  background-color: #35353550;
+  color: #f1eaee;
+  cursor: pointer;
+}
+
+.value-list {
+  list-style: none;
+  margin-top: 36px;
+  max-height: 0;
+  overflow: hidden;
+  transition: .3s ease-in-out;
+  -webkit-transition: .3s ease-in-out;
+}
+.value-list li {
+  align-items: center;
+  background-color: #35353525;
+  color: #353535ff;
+  cursor: pointer;
+  display: flex;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  position: relative;
+  -ms-flex-align: center;
+  opacity: 1;
+  padding: 10px;
+  transition: background-color .3s;
+  -webkit-box-align: center;
+  -webkit-transition: background-color .3s;
+}
+.value-list li.closed {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  padding: 0;
+}
+.value-list li:hover {
+  background-color: #353535ff;
+  color: #f1eaee;
+}
+
+.value-list.open {
+  max-height: 320px;
+  opacity: 100;
+  overflow: auto;
+}

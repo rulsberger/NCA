@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9.2608757mm"
+   height="3.6057417mm"
+   viewBox="0 0 32.814126 12.77625"
+   id="svg16513"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ContinentalDivide.svg">
+  <defs
+     id="defs16515">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5314">
+      <path
+         d="m 0,1224 792,0 L 792,0 0,0 0,1224 Z"
+         id="path5316"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5294">
+      <path
+         d="m 0,1224 792,0 L 792,0 0,0 0,1224 Z"
+         id="path5296"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-180.84803"
+     inkscape:cy="343.31164"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="405"
+     inkscape:window-x="26"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata16518">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-128.70517,-862.8976)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,-710.26445,1855.2651)"
+       id="g5290">
+      <g
+         id="g5292"
+         clip-path="url(#clipPath5294)">
+        <path
+           d="m 697.277,793.744 -25.511,0 0,-9.921 25.511,0 0,9.921 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path5298"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 697.277,793.744 -25.511,0 0,-9.921 25.511,0 0,9.921 z"
+           style="fill:none;stroke:#373535;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5300"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g5302"
+           transform="translate(696.5576,788.8443)">
+          <path
+             d="M 0,0 -24.748,-0.024"
+             style="fill:none;stroke:#373535;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0, 2;stroke-dashoffset:0;stroke-opacity:1"
+             id="path5304"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

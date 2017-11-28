@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.4865029mm"
+   height="3.4865029mm"
+   viewBox="0 0 12.353751 12.35375"
+   id="svg10338"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="EmergencyTelephoneW.svg">
+  <defs
+     id="defs10340">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10168">
+      <path
+         d="m 0,1224 792,0 L 792,0 0,0 0,1224 Z"
+         id="path10170"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="6.1768801"
+     inkscape:cy="6.1768786"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="405"
+     inkscape:window-x="96"
+     inkscape:window-y="84"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata10343">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-285.81384,-456.08705)">
+    <g
+       id="g13476"
+       transform="matrix(1.2500001,0,0,-1.2500001,297.91759,466.9633)">
+      <path
+         d="m 0,0 c 0,-0.541 -0.439,-0.98 -0.979,-0.98 l -7.524,0 c -0.54,0 -0.979,0.439 -0.979,0.98 l 0,7.522 c 0,0.541 0.439,0.98 0.979,0.98 l 7.524,0 C -0.439,8.502 0,8.063 0,7.522 L 0,0 Z m -0.979,8.701 -7.524,0 c -0.65,0 -1.18,-0.527 -1.18,-1.179 l 0,-7.522 c 0,-0.652 0.53,-1.182 1.18,-1.182 l 7.524,0 c 0.65,0 1.179,0.53 1.179,1.182 l 0,7.522 c 0,0.652 -0.529,1.179 -1.179,1.179"
+         style="fill:#008dd1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path13478"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g13480"
+       transform="matrix(1.2500001,0,0,-1.2500001,296.69334,456.3358)">
+      <path
+         d="m 0,0 -7.524,0 c -0.54,0 -0.979,-0.44 -0.979,-0.98 l 0,-7.522 c 0,-0.541 0.439,-0.98 0.979,-0.98 l 7.524,0 c 0.54,0 0.979,0.439 0.979,0.98 l 0,7.522 C 0.979,-0.44 0.54,0 0,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path13482"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g13484"
+       transform="matrix(1.2500001,0,0,-1.2500001,291.77147,457.02681)">
+      <path
+         d="m 0,0 c -0.399,-0.043 -1.848,-0.707 -1.891,-4.123 -0.045,-3.6 1.492,-4.357 1.895,-4.35 l 0,2.377 c -0.332,0 -0.399,0.362 -0.475,1.108 -0.049,0.494 -0.064,1.103 0,1.711 0.047,0.425 0.125,0.842 0.473,0.842 L 0,0 Z"
+         style="fill:#008dd1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path13486"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g13488"
+       transform="matrix(1.2500001,0,0,-1.2500001,293.14597,467.62243)">
+      <path
+         d="m 0,0 c 0.154,0 0.264,0.125 0.264,0.266 l 0.002,0.002 c 0,0 -0.002,1.851 -0.002,1.853 0,0.147 -0.119,0.262 -0.264,0.262 l -0.674,0 0,-2.383 c 0,0 0.672,-0.002 0.672,0 L 0,0 Z"
+         style="fill:#008dd1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path13490"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g13492"
+       transform="matrix(1.2500001,0,0,-1.2500001,293.14597,460.07118)">
+      <path
+         d="m 0,0 c 0.154,0 0.264,0.125 0.264,0.266 l 0.002,0 c 0,0 -0.002,1.906 -0.002,1.908 C 0.264,2.32 0.145,2.435 0,2.435 l -0.674,0 0,-2.435 0.672,-0.002 L 0,0 Z"
+         style="fill:#008dd1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path13494"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.9739609mm"
+   height="3.0457084mm"
+   viewBox="0 0 31.797499 10.79188"
+   id="svg16513"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="LockedGate.svg">
+  <defs
+     id="defs16515">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5314">
+      <path
+         d="m 0,1224 792,0 L 792,0 0,0 0,1224 Z"
+         id="path5316"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5294">
+      <path
+         d="m 0,1224 792,0 L 792,0 0,0 0,1224 Z"
+         id="path5296"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4740">
+      <path
+         d="m 0,1224 792,0 L 792,0 0,0 0,1224 Z"
+         id="path4742"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-206.31009"
+     inkscape:cy="306.55611"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="690"
+     inkscape:window-height="405"
+     inkscape:window-x="26"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata16518">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-154.16723,-828.12644)">
+    <g
+       id="g5192"
+       transform="matrix(1.25,0,0,-1.25,169.32348,833.44957)">
+      <path
+         d="M 0,0 13.313,0"
+         style="fill:none;stroke:#373535;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5194"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5196"
+       transform="matrix(1.25,0,0,-1.25,154.16723,833.44957)">
+      <path
+         d="M 0,0 12.438,0"
+         style="fill:none;stroke:#373535;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1.4;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5198"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5200"
+       transform="matrix(1.25,0,0,-1.25,154.16723,833.44957)">
+      <path
+         d="M 0,0 12.125,0"
+         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5202"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5204"
+       transform="matrix(1.25,0,0,-1.25,169.0891,831.26757)">
+      <path
+         d="M 0,0 0,-3.5"
+         style="fill:none;stroke:#373535;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5206"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5208"
+       transform="matrix(1.25,0,0,-1.25,174.67023,835.08956)">
+      <path
+         d="m 0,0 0,2.616 c 0.41,0.154 0.705,0.541 0.705,1.005 0,0.596 -0.482,1.08 -1.08,1.08 -0.596,0 -1.08,-0.484 -1.08,-1.08 0,-0.44 0.266,-0.815 0.643,-0.984 l 0,-2.658 c -0.377,-0.168 -0.643,-0.543 -0.643,-0.983 0,-0.597 0.484,-1.08 1.08,-1.08 0.598,0 1.08,0.483 1.08,1.08 C 0.705,-0.541 0.41,-0.153 0,0"
+         style="fill:#373535;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5210"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5212"
+       transform="matrix(1.25,0,0,-1.25,180.34773,838.91832)">
+      <path
+         d="M 0,0 C 0.496,0 0.899,0.403 0.899,0.9 0.899,1.397 0.496,1.8 0,1.8 -0.497,1.8 -0.9,1.397 -0.9,0.9 -0.9,0.403 -0.497,0 0,0"
+         style="fill:#373535;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5214"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5216"
+       transform="matrix(1.25,0,0,-1.25,180.34773,830.37644)">
+      <path
+         d="M 0,0 C 0.496,0 0.899,0.403 0.899,0.9 0.899,1.397 0.496,1.8 0,1.8 -0.497,1.8 -0.9,1.397 -0.9,0.9 -0.9,0.403 -0.497,0 0,0"
+         style="fill:#373535;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5218"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5220"
+       transform="matrix(1.25,0,0,-1.25,180.34773,838.03269)">
+      <path
+         d="M 0,0 0,7.083"
+         style="fill:none;stroke:#373535;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path5222"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
