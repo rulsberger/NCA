@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" type="image/PNG"  href="favicon.png" />
+    <meta charset='utf-8' />
+    <title>NCA Search</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.2/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.42.2/mapbox-gl.css' rel='stylesheet' />
+    <style type="text/css" media="all">@import "docs/css/all.css";</style>
+    <style>
+        body { margin:0; padding:0; }
+        #map {
+          /*position:relative;*/
+          text-align: none !important;s          float:left;
+          top:0;
+          bottom:0;
+          height: 500px;
+          width:100%;
+        }
+    </style>
+</head>
+<body>
+  <div class="cntnr">
+    <div class="tpbx">
+      <div class="tpbn" id="tpbn1">
+        <a href="https://www.facebook.com"><img class="lgs" src="docs/imgs/lgs/fb.svg" alt="F"></a>
+        <a href="https://www.instagram.com"><img class="lgs" src="docs/imgs/lgs/nstgrm.svg" alt="I"></a>
+        <a href="https://www.twitter.com"><img class="lgs" src="docs/imgs/lgs/twttr.svg" alt="T"></a>
+        <a href="https://www.google.com"><img class="lgs" src="docs/imgs/lgs/gpls.svg" alt="G+"></a>
+        <a href="https://www.pinterest.com"><img class="lgs" src="docs/imgs/lgs/pntrst.svg" alt="P"></a>
+      </div>
+      <div class="tpbn" id="tpbn2">
+        <h1>NATIONAL CAMPING ASSOCIATION</h1>
+      </div>
+      <div class="tpbn" id="tpbn3">
+        <h2>searchbox</h2>
+      </div>
+    </div>
+
+    <div class="hdr">
+      <div class="lgbn">
+        <a href="index.html"><img src="docs/imgs/nca.svg" alt="NCA" height="180" width="180" /></a>
+      </div>
+      <div class="lnkbn">
+        <div class="lnkdrpdwn">
+          <a href="srch.html"><button class="lnkdrpbtn">FIND CAMPGROUND</button></a>
+        </div>
+        <div class="lnkdrpdwn">
+          <button class="lnkdrpbtn">RESOURCES</button>
+          <div class="lnkdrpdwn-cntnt">
+            <a href="#">Camping Basics</a>
+            <a href="#">Pass // Fee Info</a>
+          </div>
+        </div>
+        <div class="lnkdrpdwn">
+          <a href="blghm.html"><button class="lnkdrpbtn">BLOG</button></a>
+          <div class="lnkdrpdwn-cntnt">
+            <a href="blghm.html">Camps</a>
+            <a href="blghm.html">How To</a>
+            <a href="blghm.html">Gear</a>
+            <a href="blghm.html">News</a>
+          </div>
+        </div>
+        <div class="lnkdrpdwn">
+          <button class="lnkdrpbtn">MEMBERSHIP</button>
+          <div class="lnkdrpdwn-cntnt">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="cntnt">
+    <div class="srchbx">
+      search bar</br></br>
+      state dropdown </br></br>
+      agency dropdown </br></br>
+      <input type='checkbox' class="chkchk" id="cost"  value="valuable"/><label for="cost"></label> cost number slider <br>
+      <input type='checkbox' class="chkchk" id="campground"  value="valuable"/><label for="campground"></label> campsite number slider <br>
+      <input type='checkbox' class="chkchk" id="rv" value="valuable"/><label for="rv"></label> RV size number slider <br>
+      <input type='checkbox' class="chkchk" id="airport" value="valuable"/><label for="airport"></label>
+      <input type='checkbox' class="chkchk" id="ampitheater" value="valuable"/><label for="ampitheater"></label>
+      <input type='checkbox' class="chkchk" id="boatlaunch"  value="valuable"/><label for="boatlaunch"></label>
+      <input type='checkbox' class="chkchk" id="boattour" value="valuable"/><label for="boattour"></label>
+      <input type='checkbox' class="chkchk" id="busstop" value="valuable"/><label for="busstop"></label>
+      <input type='checkbox' class="chkchk" id="campfire" value="valuable"/><label for="campfire"></label>
+      <input type='checkbox' class="chkchk" id="canoeing" value="valuable"/><label for="canoeing"></label>
+      <input type='checkbox' class="chkchk" id="cycling" value="valuable"/><label for="cycling"></label>
+      <input type='checkbox' class="chkchk" id="downhillskiing" value="valuable"/><label for="downhillskiing"></label>
+      <input type='checkbox' class="chkchk" id="drinkingwater"  value="valuable"/><label for="drinkingwater"></label>
+      <input type='checkbox' class="chkchk" id="emergencytelephone" value="valuable"/><label for="emergencytelephone"></label>
+      <input type='checkbox' class="chkchk" id="firstaid" value="valuable"/><label for="firstaid"></label>
+      <input type='checkbox' class="chkchk" id="foodservice" value="valuable"/><label for="foodservice"></label>
+      <input type='checkbox' class="chkchk" id="fourwheeldrive"  value="valuable"/><label for="fourwheeldrive"></label>
+      <input type='checkbox' class="chkchk" id="gasstation" value="valuable"/><label for="gasstation"></label>
+      <input type='checkbox' class="chkchk" id="golfing" value="valuable"/><label for="golfing"></label>
+      <input type='checkbox' class="chkchk" id="horses" value="valuable"/><label for="horses"></label>
+      <input type='checkbox' class="chkchk" id="hospital"  value="valuable"/><label for="hospital"></label>
+      <input type='checkbox' class="chkchk" id="iceskating" value="valuable"/><label for="iceskating"></label>
+      <input type='checkbox' class="chkchk" id="information" value="valuable"/><label for="information"></label>
+      <input type='checkbox' class="chkchk" id="litter" value="valuable"/><label for="litter"></label>
+      <input type='checkbox' class="chkchk" id="lodging"  value="valuable"/><label for="lodging"></label>
+      <input type='checkbox' class="chkchk" id="marina" value="valuable"/><label for="marina"></label>
+      <input type='checkbox' class="chkchk" id="motorbike" value="valuable"/><label for="motorbike"></label>
+      <input type='checkbox' class="chkchk" id="parking" value="valuable"/><label for="parking"></label>
+      <input type='checkbox' class="chkchk" id="pets"  value="valuable"/><label for="pets"></label>
+      <input type='checkbox' class="chkchk" id="picnicarea" value="valuable"/><label for="picnicarea"></label>
+      <input type='checkbox' class="chkchk" id="postoffice" value="valuable"/><label for="postoffice"></label>
+      <input type='checkbox' class="chkchk" id="radiatorwater" value="valuable"/><label for="radiatorwater"></label>
+      <input type='checkbox' class="chkchk" id="rangerstation"  value="valuable"/><label for="rangerstation"></label>
+      <input type='checkbox' class="chkchk" id="recycling" value="valuable"/><label for="recycling"></label>
+      <input type='checkbox' class="chkchk" id="restrooms" value="valuable"/><label for="restrooms"></label>
+      <input type='checkbox' class="chkchk" id="sailing"  value="valuable"/><label for="sailing"></label>
+      <input type='checkbox' class="chkchk" id="scuba" value="valuable"/><label for="scuba"></label>
+      <input type='checkbox' class="chkchk" id="selfguidingtrail" value="valuable"/><label for="selfguidingtrail"></label>
+      <input type='checkbox' class="chkchk" id="shelter" value="valuable"/><label for="shelter"></label>
+      <input type='checkbox' class="chkchk" id="shower"  value="valuable"/><label for="shower"></label>
+      <input type='checkbox' class="chkchk" id="sledding" value="valuable"/><label for="sledding"></label>
+      <input type='checkbox' class="chkchk" id="snowmobile" value="valuable"/><label for="snowmobile"></label>
+      <input type='checkbox' class="chkchk" id="stable" value="valuable"/><label for="stable"></label>
+      <input type='checkbox' class="chkchk" id="store"  value="valuable"/><label for="store"></label>
+      <input type='checkbox' class="chkchk" id="swimming" value="valuable"/><label for="swimming"></label>
+      <input type='checkbox' class="chkchk" id="telephone"  value="valuable"/><label for="telephone"></label>
+      <input type='checkbox' class="chkchk" id="trailhead" value="valuable"/><label for="trailhead"></label>
+      <input type='checkbox' class="chkchk" id="wastedisposal" value="valuable"/><label for="wastedisposal"></label>
+      <input type='checkbox' class="chkchk" id="windsurfing" value="valuable"/><label for="windsurfing"></label>
+      <input type='checkbox' class="chkchk" id="xcskiing"  value="valuable"/><label for="xcskiing"></label>
+    </div>
+    <div class="rsltcntnt">
+     <!-- <div class="rsltmap">
+       <img src="docs/imgs/500x950.svg"/>
+     </div> -->
+     <div id='map' class="rsltmap"></div>
+    </div>
+  </div>
+  <div class="footybx">
+    <div class="footybr">
+      Staff <br>
+      Corporate Partners <br>
+      <a href="mailto:vanderarkindustries@gmail.com">Contact Us</a> <br>
+    </div>
+
+    <div class="footybr">
+      Press Room <br>
+      Mailing List<br>
+      <a href="prvcyplcy.html">Privacy Policy</a></br>
+    </div>
+
+    <div class="footybr">
+      Join NCA<br>
+      Donate <br>
+      Give Monthly <br>
+    </div>
+
+    <div class="footybr">
+      <a href="mailto:vanderarkindustries@gmail.com">Vander Ark Industries</a><br>
+      <a href="mailto:vanderarkindustries@gmail.com">Somers, MT 59932</a><br>
+    </div>
+  </div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoicnlhbnVsc2JlcmdlciIsImEiOiJjaW4yN2JhcnYwYmZpdmxtNDFhZGt2NXcyIn0.sGYUx0RqE2lnufcRVdopkg';
+var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: 'mapbox://styles/ryanulsberger/cjaogpzab07l02so58vgvcbby',
+    center: [-114.18, 48.36], // starting position
+    zoom: 10 // starting zoom
+});
+</script>
+
+</body>
+</html>
