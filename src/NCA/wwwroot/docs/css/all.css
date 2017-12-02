@@ -460,9 +460,9 @@ body{
 }
 
 .cntnt{
-  clear: both;
+  /*clear: both;*/
   color: #343236;
-  text-align: center;
+  /*text-align: center;*/
   width: 100%;
 }
 
